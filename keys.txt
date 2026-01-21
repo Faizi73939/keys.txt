@@ -1,6 +1,6 @@
 {
   "approved_keys": [
-    "CLONEFB|MR|USER_UID|FAIZI|USER_ID|708",
+    "Faizi✘-1024690A2461024635853182NUJIRF",
     "ANOTHER_KEY_HERE"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "approved_keys": [
-    "Faizi✘-1024690A2461024635853182NUJIRF",
+    "Faizi✘-1024690A24610635853182NUJIRF",
     "ANOTHER_KEY_HERE"
   ]
 }
